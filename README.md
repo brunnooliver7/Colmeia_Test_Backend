@@ -5,7 +5,7 @@
 ### 1) Clonar repositório do projeto
 
 ```bash
-$ git clone https://github.com/brunnooliver7/Colmeia_Test
+$ git clone https://github.com/brunnooliver7/Colmeia_Test_Backend
 ```
 ### 2) Instalar as dependências da api
 
